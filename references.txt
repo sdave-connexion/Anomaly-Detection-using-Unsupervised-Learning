@@ -1,0 +1,22 @@
+https://www.analyticsvidhya.com/blog/2019/02/outlier-detection-python-pyod/ 
+
+https://towardsdatascience.com/machine-learning-for-anomaly-detection-and-condition-monitoring-d4614e7de770   
+
+https://towardsdatascience.com/the-complete-beginners-guide-to-data-cleaning-and-preprocessing-2070b7d4c6d  preprocessing cleaning data
+
+https://github.com/yzhao062/pyod  python outlier detection
+
+https://github.com/yzhao062/pyod/blob/master/examples/knn_example.py  knn
+
+https://www.geeksforgeeks.org/python-programming-examples/  python prog ex
+
+https://docs.python.org/3/library/math.html  py math.examples     
+
+https://www.programiz.com/python-programming/modules/math  python math
+
+https://www.analyticsvidhya.com/blog/2019/02/outlier-detection-python-pyod/  
+https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/?utm_source=outlierdetectionpyod&utm_medium=blog  
+https://www.analyticsvidhya.com/blog/2019/08/7-innovative-machine-learning-github-projects-in-python/
+  
+
+   
